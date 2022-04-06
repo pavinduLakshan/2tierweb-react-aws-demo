@@ -1,0 +1,11 @@
+{
+  "auth": {
+    "2twebdemoc24ff70a": {
+      "service": "Cognito",
+      "serviceType": "imported",
+      "providerPlugin": "awscloudformation",
+      "dependsOn": [],
+      "customAuth": false
+    }
+  }
+}
